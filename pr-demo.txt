@@ -3,3 +3,5 @@ triggering pr build
 1st change for octopus deploy
 
 pushing the package into octopus
+
+creating and deploying the release in octopus
